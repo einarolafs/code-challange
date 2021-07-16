@@ -56,7 +56,7 @@
     "babel-plugin-module-resolver": "^4.0.0",
     "babel-plugin-react-css-modules": "^5.2.6",
     "babel-plugin-transform-remove-console": "^6.9.4",
-    "browserslist": "^4.13.0",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30001102",
     "copy-webpack-plugin": "^6.0.3",
     "core-js": "^3.6.5",
